@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <HelloWorld></HelloWorld>
+   <HelloWorld name="My friend" />
     </>
   )
 }
